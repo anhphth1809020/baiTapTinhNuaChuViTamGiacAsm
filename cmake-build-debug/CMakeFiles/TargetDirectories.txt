@@ -1,0 +1,3 @@
+C:/Users/HONG ANH/CLionProjects/baiTapAsm/cmake-build-debug/CMakeFiles/baiTapAsm.dir
+C:/Users/HONG ANH/CLionProjects/baiTapAsm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HONG ANH/CLionProjects/baiTapAsm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
